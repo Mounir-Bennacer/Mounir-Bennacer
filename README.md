@@ -1,11 +1,4 @@
 # Hi there, I'm Mounir 👋
-<a href="https://twitter.com/MounirBENNACER1">
-  <img align="left" alt="Mounir Bennacer | Twitter" width="21px" src="https://raw.githubusercontent.com/Mounir-Bennacer/Mounir-Bennacer/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mounir-bennacer">
-  <img align="left" alt="Mounir's LinkedIn" width="21px" src="https://raw.githubusercontent.com/Mounir-Bennacer/Mounir-Bennacer/master/assets/linkedin.svg" />
-</a>
-
 
 I'm a self taught developer who is passionate about learning more and more. Some technologies I enjoy working with include Laravel, Python, Jamstack (JavaScript, APIs + Markup).
 
