@@ -3,9 +3,9 @@
 I'm a self taught developer who is passionate about learning more and more. Some technologies I enjoy working with include Laravel, Python, Jamstack (JavaScript, APIs + Markup).
 
 - 🔭 I’m currently working on ... [My Portfolio](https://github.com/Mounir-Bennacer/my-portfolio)
-- 🌱 I’m currently learning ... Cyber Security and Vue.js
+- 🌱 I’m currently learning ... Cyber Security and Golang
 - 👯 I’m looking to collaborate on ... Bug Bounties
-- 🤔 I’m looking for help with ... AWS & Docker
+- 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/MounirBENNACER1)
 
